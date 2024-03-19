@@ -18,8 +18,8 @@ It features:
 
 [AISLER](https://aisler.net/) is the sponsor for the prototypes and the first batch of PCBs!
 
-You can get PCBs manufactured in two business days starting at just 12.13€.
-Use the code `alexander_m_23` to get 5€ off your next order!
+You can get PCBs manufactured in two business days starting at just 10.16€.
+Use the code `alexander_m` to get 5€ off your next order!
 
 ## Purchase
 
